@@ -1,2 +1,1 @@
-# Virus-Game
-My game based on covid 19
+# Bouncy Paddle
